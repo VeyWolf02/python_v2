@@ -1,0 +1,11 @@
+items:
+- Notebook
+- PC
+- Notepad
+- NetTop
+items_price:
+  NetTop: 100€-400€
+  Notebook: 200€-1500€
+  Notepad: 100€-500€
+  PC: 500€-5000€
+items_quantity: 4
